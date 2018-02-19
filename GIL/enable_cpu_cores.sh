@@ -1,4 +1,4 @@
-#! /usr/bin
+#! /bin/bash
 
 # I have 4 cpus
 echo 1 > /sys/devices/system/cpu/cpu3/online
